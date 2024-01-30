@@ -8,3 +8,4 @@ idna==3.6
 multidict==6.0.4
 python-dotenv==1.0.1
 yarl==1.9.4
+gunicorn==19.7.1
